@@ -1,0 +1,20 @@
+header {
+	background-color:yellow;
+	padding-bottom: 10px;
+}
+
+main .card {
+	border: 1px gray solid;
+	padding:5px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.card-image {
+	width:100%;
+}
+
+.card-content h3 p {
+	padding-left: 3px;
+
+}
